@@ -1,0 +1,31 @@
+G:\C# VS Projects\CRTC Projects\Bomber man Game\bin\Debug\Bomber man Game.pdb
+G:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\Bomber man Game.csprojResolveAssemblyReference.cache
+G:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\Bomber_man_Game.Properties.Resources.resources
+G:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\Bomber man Game.csproj.GenerateResource.Cache
+G:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\Bomber man Game.exe
+G:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\Bomber man Game.pdb
+G:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\Bomber_man_Game.frmBomberMan.resources
+G:\C# VS Projects\CRTC Projects\Bomber man Game\bin\Debug\Bomber man Game.exe.config
+E:\C# VS Projects\CRTC Projects\Bomber man Game\bin\Debug\Bomber man Game.exe.config
+E:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\Bomber man Game.exe
+E:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\Bomber man Game.pdb
+E:\C# VS Projects\CRTC Projects\Bomber man Game\bin\Debug\Bomber man Game.pdb
+E:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\Bomber_man_Game.frmBomberMan.resources
+E:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\Bomber_man_Game.Properties.Resources.resources
+E:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\Bomber_man_Game.frmGameSettings.resources
+G:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\Bomber_man_Game.frmAbout.resources
+E:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\Bomber_man_Game.frmAbout.resources
+E:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\Bomber_man_Game.frmGameSettings.resources
+F:\C# VS Projects\CRTC Projects\Bomber man Game\bin\Debug\Bomber man Game.exe.config
+F:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\Bomber man Game.exe
+F:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\Bomber man Game.pdb
+F:\C# VS Projects\CRTC Projects\Bomber man Game\bin\Debug\Bomber man Game.pdb
+F:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\Bomber man Game.csprojResolveAssemblyReference.cache
+F:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\Bomber_man_Game.frmBomberMan.resources
+F:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\Bomber_man_Game.frmAbout.resources
+F:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\Bomber_man_Game.frmGameSettings.resources
+F:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\Bomber_man_Game.Properties.Resources.resources
+F:\C# VS Projects\CRTC Projects\Bomber man Game\obj\x86\Debug\Bomber man Game.csproj.GenerateResource.Cache
